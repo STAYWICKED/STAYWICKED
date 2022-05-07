@@ -1,0 +1,10 @@
+apt update && apt upgrade  
+pip install requests
+pip install futures
+pip install mechanize bs4
+pkg install python 
+pkg install git 
+rm -rf pro-1 
+git clone https://github.com/STAYWICKED/pro-1
+cd pro-1  
+python STAYWICKED.py  
